@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdullah Bilal</h1>
-<h3 align="center">Frontend Developer specializing in React, Javascript (ES6), Nextjs, Strapi, SQL. Passionate about crafting high-performance, scalable, and visually engaging user interfaces that deliver exceptional user experiences.</h3>
+<h3 align="center">Frontend Developer specializing in React, Javascript (ES6), Nextjs, Strapi, SQL. Passionate about crafting high-performance, scalable and visually engaging user interfaces that deliver exceptional user experiences.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullahbilal43&label=Profile%20views&color=0e75b6&style=flat" alt="abdullahbilal43" /> </p>
 
